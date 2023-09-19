@@ -11,4 +11,4 @@ data:
   url: https://argo-cd-demo.argoproj.io
 
   # Enables application status badge feature
-  statusbadge.enabled: "true"
+  statusbadge.enabled: "false"
